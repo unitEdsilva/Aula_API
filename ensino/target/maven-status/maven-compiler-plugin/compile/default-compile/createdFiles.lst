@@ -1,0 +1,14 @@
+aula/apijava/ensino/repositories/AlocacaoRepository.class
+aula/apijava/ensino/entities/Professor.class
+aula/apijava/ensino/services/CursoService.class
+aula/apijava/ensino/repositories/CursoRepository.class
+aula/apijava/ensino/controllers/ProfessorController.class
+aula/apijava/ensino/entities/Alocacao.class
+aula/apijava/ensino/entities/Curso.class
+aula/apijava/ensino/EnsinoApplication.class
+aula/apijava/ensino/controllers/CursoController.class
+aula/apijava/ensino/configs/SwaggerConfig.class
+aula/apijava/ensino/repositories/ProfessorRepository.class
+aula/apijava/ensino/services/ProfessorService.class
+aula/apijava/ensino/controllers/AlocacaoController.class
+aula/apijava/ensino/services/AlocacaoService.class

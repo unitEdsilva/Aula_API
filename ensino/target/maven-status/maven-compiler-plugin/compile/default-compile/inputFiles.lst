@@ -1,0 +1,14 @@
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/EnsinoApplication.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/configs/SwaggerConfig.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/controllers/AlocacaoController.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/controllers/CursoController.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/controllers/ProfessorController.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/entities/Alocacao.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/entities/Curso.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/entities/Professor.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/repositories/AlocacaoRepository.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/repositories/CursoRepository.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/repositories/ProfessorRepository.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/services/AlocacaoService.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/services/CursoService.java
+/home/edson/Desktop/project/personal/ensinar/ensino/src/main/java/aula/apijava/ensino/services/ProfessorService.java
